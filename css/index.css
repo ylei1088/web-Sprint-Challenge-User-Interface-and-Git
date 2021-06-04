@@ -177,6 +177,10 @@ nav {
   align-items: flex-end;
 }
 
+nav a:hover {
+  color: rgb(74, 122, 255);
+}
+
 /* hero section */
 .hero-img {
   margin-bottom: 3%;
@@ -307,6 +311,11 @@ nav {
   margin-top: 3%;
   border: 0.9px solid black;
   text-align: center;
+}
+
+.content-box a:hover {
+  color: white;
+  background-color: rgb(74, 122, 255);
 }
 
 /* footer section */
